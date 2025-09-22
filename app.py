@@ -362,7 +362,7 @@ def clear_inputs():
 # Gradio interface
 with gr.Blocks() as demo:
     gr.HTML("""<div style="text-align: center;">
-               <img src="file/logo.png" alt="logo" width="150" height="150">
+               <img src="file/assets/logo.png" alt="logo" width="150" height="150">
                 <h1>Similarity Tool</h1>
                 </div>""")
 
