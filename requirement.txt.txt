@@ -1,0 +1,10 @@
+gradio
+pandas
+openai
+sentence-transformers
+pinecone
+google-generativeai
+groq
+numpy
+torch
+python-dotenv
